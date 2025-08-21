@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bhagatpandey369
-- 👀 I’m a passionate **Machine Learning Engineer** with a deep interest in the mathematical principles of **deep learning** and a focus on **large language models** and **foundational models**.
-- 🌱 I’m currently learning about the latest advancements in diffusion models and efficient model serving.
-- 💞️ I’m looking to collaborate on open-source projects related to LLMs, particularly those focused on fine-tuning or model optimization.
-- 📫 How to reach me: pandeybhagat369@gmail.com or connect with me on https://www.linkedin.com/in/bhagat-pandey-1b18a2271/
+- Hi, I’m @bhagatpandey369
+- I’m a passionate **Machine Learning Engineer** with a deep interest in the mathematical principles of **deep learning** and a focus on **large language models** and **foundational models**.
+- I’m currently learning about the latest advancements in diffusion models and efficient model serving.
+- I’m looking to collaborate on open-source projects related to LLMs, particularly those focused on fine-tuning or model optimization.
+- How to reach me: pandeybhagat369@gmail.com or connect with me on https://www.linkedin.com/in/bhagat-pandey-1b18a2271/
